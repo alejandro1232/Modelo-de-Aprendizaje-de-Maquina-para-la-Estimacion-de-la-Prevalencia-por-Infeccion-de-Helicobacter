@@ -1,0 +1,59 @@
+0;1;2
+Sel7Pre10.csv;"{'classification__max_depth': None, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=24,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 24}";0.8798586572438163
+Sel6Pre5.csv;{'classification__max_depth': None, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': PCA(n_components=11, random_state=42), 'reduce_dim__n_components': 11};0.875968992248062
+Sel7Pre5.csv;{'classification__max_depth': None, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 5, 'reduce_dim': SelectKBest(k=24), 'reduce_dim__k': 24};0.875968992248062
+Sel8Pre10.csv;"{'classification__max_depth': None, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=26,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 26}";0.872791519434629
+Sel4Pre5.csv;"{'classification__max_depth': 20, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=20,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 20}";0.872093023255814
+Sel7Pre7.csv;{'classification__max_depth': None, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=24), 'reduce_dim__k': 24};0.8659003831417624
+Sel2Pre5.csv;{'classification__max_depth': 10, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=9), 'reduce_dim__k': 9};0.8643410852713178
+Sel5Pre5.csv;"{'classification__max_depth': None, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=20,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 20}";0.8643410852713178
+Sel3Pre3.csv;{'classification__max_depth': 30, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 10};0.8594377510040161
+Sel4Pre10.csv;"{'classification__max_depth': None, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=13,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 13}";0.8586572438162544
+Sel6Pre10.csv;"{'classification__max_depth': 10, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=23,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 23}";0.8586572438162544
+Sel0Pre5.csv;{'classification__max_depth': 10, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': PCA(n_components=8, random_state=42), 'reduce_dim__n_components': 8};0.8565891472868217
+Sel3Pre10.csv;{'classification__max_depth': 20, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 10};0.8551236749116607
+Sel1Pre5.csv;{'classification__max_depth': None, 'classification__min_samples_leaf': 2, 'classification__min_samples_split': 2, 'reduce_dim': PCA(n_components=9, random_state=42), 'reduce_dim__n_components': 9};0.8449612403100775
+Sel5Pre10.csv;"{'classification__max_depth': 20, 'classification__min_samples_leaf': 2, 'classification__min_samples_split': 5, 'reduce_dim': SelectKBest(k=20,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 20}";0.8445229681978799
+Sel4Pre3.csv;"{'classification__max_depth': None, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 5, 'reduce_dim': SelectKBest(k=13,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 13}";0.8433734939759037
+Sel4Pre7.csv;"{'classification__max_depth': 10, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=13,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 13}";0.8390804597701149
+Sel6Pre7.csv;"{'classification__max_depth': 10, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=23,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 23}";0.8390804597701149
+Sel5Pre3.csv;"{'classification__max_depth': None, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 10, 'reduce_dim': SelectKBest(k=20,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 20}";0.8313253012048193
+Sel7Pre3.csv;"{'classification__max_depth': None, 'classification__min_samples_leaf': 2, 'classification__min_samples_split': 5, 'reduce_dim': SelectKBest(k=24,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 24}";0.8313253012048193
+Sel8Pre3.csv;"{'classification__max_depth': 20, 'classification__min_samples_leaf': 2, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=26,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 26}";0.8313253012048193
+Sel8Pre5.csv;{'classification__max_depth': 10, 'classification__min_samples_leaf': 2, 'classification__min_samples_split': 5, 'reduce_dim': PCA(n_components=26, random_state=42), 'reduce_dim__n_components': 26};0.8294573643410853
+Sel6Pre3.csv;"{'classification__max_depth': 30, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=23,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 23}";0.8273092369477911
+Sel3Pre5.csv;"{'classification__max_depth': 20, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=17,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 17}";0.8255813953488372
+Sel5Pre7.csv;"{'classification__max_depth': 30, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 5, 'reduce_dim': SelectKBest(k=20,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 20}";0.8199233716475096
+Sel8Pre7.csv;{'classification__max_depth': None, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 5, 'reduce_dim': SelectKBest(k=26), 'reduce_dim__k': 26};0.8084291187739464
+Sel2Pre3.csv;{'classification__max_depth': 10, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': PCA(n_components=3, random_state=42), 'reduce_dim__n_components': 3};0.8072289156626506
+Sel3Pre7.csv;{'classification__max_depth': 20, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 10};0.7969348659003831
+Sel2Pre10.csv;"{'classification__max_depth': 10, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=3,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 3}";0.7385159010600707
+Sel2Pre7.csv;"{'classification__max_depth': 10, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=3,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 3}";0.7279693486590039
+Sel0Pre3.csv;"{'classification__max_depth': 20, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=2,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 2}";0.6907630522088354
+Sel1Pre3.csv;"{'classification__max_depth': None, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=2,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 2}";0.678714859437751
+Sel1Pre7.csv;{'classification__max_depth': 20, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': PCA(n_components=2, random_state=42), 'reduce_dim__n_components': 2};0.578544061302682
+Sel0Pre7.csv;{'classification__max_depth': None, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': PCA(n_components=2, random_state=42), 'reduce_dim__n_components': 2};0.5747126436781609
+Sel1Pre10.csv;"{'classification__max_depth': 10, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=2,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 2}";0.5335689045936396
+Sel0Pre10.csv;"{'classification__max_depth': None, 'classification__min_samples_leaf': 1, 'classification__min_samples_split': 2, 'reduce_dim': SelectKBest(k=2,
+            score_func=<function mutual_info_classif at 0x000002346E88C7C0>), 'reduce_dim__k': 2}";0.5300353356890459

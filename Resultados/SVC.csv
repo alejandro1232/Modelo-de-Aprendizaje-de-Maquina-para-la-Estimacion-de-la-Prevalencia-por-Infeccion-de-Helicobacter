@@ -1,0 +1,59 @@
+0;1;2
+Sel4Pre3.csv;{'classification__C': 150, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': PCA(n_components=13, random_state=42), 'reduce_dim__n_components': 13};0.8955823293172691
+Sel7Pre10.csv;"{'classification__C': 150, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=24,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 24}";0.8939929328621908
+Sel8Pre3.csv;"{'classification__C': 200, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=26,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 26}";0.8835341365461847
+Sel8Pre10.csv;"{'classification__C': 200, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=26,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 26}";0.8833922261484098
+Sel6Pre10.csv;"{'classification__C': 150, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=23,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 23}";0.8798586572438163
+Sel1Pre5.csv;"{'classification__C': 350, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=9,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 9}";0.8798449612403101
+Sel6Pre5.csv;"{'classification__C': 200, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=23,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 23}";0.8798449612403101
+Sel4Pre7.csv;{'classification__C': 150, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': PCA(n_components=13, random_state=42), 'reduce_dim__n_components': 13};0.8773946360153256
+Sel5Pre10.csv;"{'classification__C': 350, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=20,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 20}";0.8763250883392226
+Sel7Pre3.csv;"{'classification__C': 150, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=24,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 24}";0.8755020080321285
+Sel3Pre10.csv;{'classification__C': 150, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': PCA(n_components=10, random_state=42), 'reduce_dim__n_components': 10};0.872791519434629
+Sel7Pre5.csv;"{'classification__C': 400, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=24,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 24}";0.8682170542635659
+Sel5Pre3.csv;{'classification__C': 150, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=20), 'reduce_dim__k': 20};0.8674698795180723
+Sel6Pre3.csv;{'classification__C': 150, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': PCA(n_components=23, random_state=42), 'reduce_dim__n_components': 23};0.8674698795180723
+Sel7Pre7.csv;"{'classification__C': 150, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=24,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 24}";0.8659003831417624
+Sel3Pre5.csv;"{'classification__C': 350, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=17,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 17}";0.8643410852713178
+Sel4Pre5.csv;"{'classification__C': 200, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=20,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 20}";0.8643410852713178
+Sel5Pre5.csv;"{'classification__C': 350, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=20,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 20}";0.8643410852713178
+Sel8Pre5.csv;"{'classification__C': 150, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=26,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 26}";0.8643410852713178
+Sel4Pre10.csv;"{'classification__C': 400, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=13,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 13}";0.8621908127208481
+Sel5Pre7.csv;{'classification__C': 150, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': PCA(n_components=20, random_state=42), 'reduce_dim__n_components': 20};0.8620689655172413
+Sel3Pre3.csv;{'classification__C': 150, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': PCA(n_components=10, random_state=42), 'reduce_dim__n_components': 10};0.8594377510040161
+Sel2Pre5.csv;"{'classification__C': 150, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=9,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 9}";0.8565891472868217
+Sel3Pre7.csv;{'classification__C': 150, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': PCA(n_components=10, random_state=42), 'reduce_dim__n_components': 10};0.8544061302681992
+Sel0Pre5.csv;{'classification__C': 150, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': PCA(n_components=8, random_state=42), 'reduce_dim__n_components': 8};0.8527131782945736
+Sel8Pre7.csv;{'classification__C': 150, 'classification__gamma': 0.01, 'classification__kernel': 'rbf', 'reduce_dim': PCA(n_components=26, random_state=42), 'reduce_dim__n_components': 26};0.8467432950191571
+Sel6Pre7.csv;{'classification__C': 150, 'classification__gamma': 0.01, 'classification__kernel': 'rbf', 'reduce_dim': PCA(n_components=23, random_state=42), 'reduce_dim__n_components': 23};0.8314176245210728
+Sel2Pre3.csv;"{'classification__C': 400, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=3,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 3}";0.5421686746987951
+Sel2Pre7.csv;{'classification__C': 400, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': PCA(n_components=3, random_state=42), 'reduce_dim__n_components': 3};0.5325670498084292
+Sel1Pre3.csv;"{'classification__C': 150, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=2,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 2}";0.5301204819277109
+Sel0Pre3.csv;"{'classification__C': 150, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=2,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 2}";0.5261044176706827
+Sel2Pre10.csv;"{'classification__C': 400, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=3,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 3}";0.5017667844522968
+Sel1Pre10.csv;"{'classification__C': 350, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=2,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 2}";0.3321554770318021
+Sel1Pre7.csv;{'classification__C': 350, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': PCA(n_components=2, random_state=42), 'reduce_dim__n_components': 2};0.31417624521072796
+Sel0Pre10.csv;"{'classification__C': 350, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': SelectKBest(k=2,
+            score_func=<function mutual_info_classif at 0x000001A2EBA10860>), 'reduce_dim__k': 2}";0.30742049469964666
+Sel0Pre7.csv;{'classification__C': 200, 'classification__gamma': 0.1, 'classification__kernel': 'rbf', 'reduce_dim': PCA(n_components=2, random_state=42), 'reduce_dim__n_components': 2};0.28735632183908044
